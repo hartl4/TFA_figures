@@ -3,4 +3,5 @@
 
 #This repository contains the code uses for figures and analysis in the paper titled "Growth in production and Environmental Deposition of Trifluoroacetic acid due to Long-lived CFC Replacements and Anaesthetics".
 
-Model ouputs required to run the code are available at xxx.
+Model ouputs required to run the code are available at xxx. All code requires the user to input a path to read the model files from their machine.
+
